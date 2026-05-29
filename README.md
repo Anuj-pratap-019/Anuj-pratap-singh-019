@@ -2,10 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=240&section=header&text=Anuj%20Pratap%20Singh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20|%20Product%20Engineering%20|%20Scalable%20Systems&descAlignY=58&descAlign=50" width="100%" />
 
-
 <br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;React.js+%7C+Node.js+%7C+MongoDB;System+Design+%26+Scalable+Architecture;1500%2B+DSA+Problems+Solved;Building+Clean+%26+High-Performance+Applications" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/followers/bk7842118?style=for-the-badge&logo=github&color=38BDF8&labelColor=0F172A" />
+<img src="https://img.shields.io/github/stars/bk7842118?style=for-the-badge&logo=github&color=38BDF8&labelColor=0F172A" />
+<img src="https://komarev.com/ghpvc/?username=bk7842118&style=for-the-badge&color=38BDF8" />
 
 </div>
 
@@ -17,6 +22,7 @@
 Name: Anuj Pratap Singh
 Role: Software Engineer
 Experience: 3+ Years
+
 Specialization:
   - Full-Stack Development
   - Product Engineering
@@ -30,6 +36,8 @@ Tech Focus:
     - JavaScript
     - HTML5
     - CSS3
+    - Tailwind CSS
+    - Next.js
 
   Backend:
     - Node.js
@@ -37,10 +45,12 @@ Tech Focus:
 
   Database:
     - MongoDB
+    - Firebase
 
 Achievements:
   - Solved 1500+ DSA Problems
   - Strong Problem Solving & System Design Skills
+  - Building Scalable & Production-Grade Applications
 ```
 
 ---
@@ -53,16 +63,12 @@ Achievements:
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/brajeshkumarsde/">
+<a href="https://www.linkedin.com/in/anujpratapsingh019/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/brajesh_13/">
+<a href="https://leetcode.com/u/Anujp_123/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://codeforces.com/profile/brajesh_dce">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
 </div>
@@ -83,18 +89,8 @@ Achievements:
 
 <div align="center">
 
-<a href="https://leetcode.com/u/brajesh_13/">
-  <img height="170" src="https://leetcard.jacoblin.cool/brajesh_13?theme=dark&font=Nunito&ext=heatmap" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<a href="https://codeforces.com/profile/brajesh_dce">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=brajesh_dce&theme=github_dark&disable_animations=false&show_icons=true&force_username=true" />
+<a href="https://leetcode.com/u/Anujp_123/">
+  <img height="170" src="https://leetcard.jacoblin.cool/Anujp_123?theme=dark&font=Nunito&ext=heatmap" />
 </a>
 
 </div>
@@ -105,7 +101,7 @@ Achievements:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bk7842118&show_icons=true&theme=github_dark&hide_border=true&border_radius=10" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bk7842118&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&count_private=true" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bk7842118&layout=compact&theme=github_dark&hide_border=true&border_radius=10" />
 
@@ -184,6 +180,3 @@ Achievements:
 <img src="https://komarev.com/ghpvc/?username=bk7842118&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
-
-isme mujhe changes krne hai jha jha Brajesh kumar likha hua hai vha vha Anuj Pratap Singh kr de 
-or isko thoda or accha improve good looking krke dede 
